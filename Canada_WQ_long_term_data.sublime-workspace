@@ -1,0 +1,1680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CH",
+				"CH3COO"
+			],
+			[
+				"hydr",
+				"hydrogen"
+			],
+			[
+				"diff",
+				"different"
+			],
+			[
+				"hydroge",
+				"hydrogenotrophs"
+			],
+			[
+				"ace",
+				"acetotrophs"
+			],
+			[
+				"Ace",
+				"Acetotrophs"
+			],
+			[
+				"io",
+				"ionic\t(bibliography.bib)"
+			],
+			[
+				"reaction",
+				"reaction"
+			],
+			[
+				"depe",
+				"depended"
+			],
+			[
+				"micro",
+				"microorganisms"
+			],
+			[
+				"depen",
+				"depending"
+			],
+			[
+				"kine",
+				"kinetics"
+			],
+			[
+				"overl",
+				"overlapping"
+			],
+			[
+				"half",
+				"half-saturation"
+			],
+			[
+				"ori",
+				"original_model\t(extra_plotting_methods.py)"
+			],
+			[
+				"ex",
+				"extra_methods\tmodule"
+			],
+			[
+				"df",
+				"df_temp"
+			],
+			[
+				"new",
+				"new_model"
+			],
+			[
+				"show",
+				"show_fig"
+			],
+			[
+				"save",
+				"save_fig\tparam"
+			],
+			[
+				"extra",
+				"extra_plotting_methods\tmodule"
+			],
+			[
+				"Wa",
+				"Watson_original_model\tmodule"
+			],
+			[
+				"font",
+				"fontsize"
+			],
+			[
+				"fig",
+				"figure〔function〕"
+			],
+			[
+				"num",
+				"num_steps"
+			],
+			[
+				"have",
+				"have_event"
+			],
+			[
+				"FE",
+				"FE2"
+			],
+			[
+				"y_",
+				"y_interp"
+			],
+			[
+				"re",
+				"reconstracted"
+			],
+			[
+				"bui",
+				"build_graphs\t(build_graphs.py)"
+			],
+			[
+				"times",
+				"timestep\t(extra_methods.py)"
+			],
+			[
+				"va",
+				"variables"
+			],
+			[
+				"lin",
+				"linewidth\t(model.tex)"
+			],
+			[
+				"asa",
+				"asarray\tfunction"
+			],
+			[
+				"t",
+				"tolerance\tstatement"
+			],
+			[
+				"MN",
+				"MNO2s"
+			],
+			[
+				"NO3",
+				"NO3\tstatement"
+			],
+			[
+				"dGr0_H",
+				"dGr0_H2a\tstatement"
+			],
+			[
+				"cali",
+				"calibration\t(calibration_routine.py)"
+			],
+			[
+				"tota",
+				"total_rmsd"
+			],
+			[
+				"m_N",
+				"m_NO3_days"
+			],
+			[
+				"Fe",
+				"Fe3"
+			],
+			[
+				"gibb",
+				"gibbs_energy"
+			],
+			[
+				"r_",
+				"r_CH4"
+			],
+			[
+				"SA",
+				"SA_t"
+			],
+			[
+				"Km",
+				"Km_SO4\tstatement"
+			],
+			[
+				"Km_",
+				"Km_NO3\t(model_3g.m)"
+			],
+			[
+				"dG",
+				"dGr0_A5"
+			],
+			[
+				"F",
+				"Fe2\tstatement"
+			],
+			[
+				"Mn",
+				"MnO2s\t(gibbs_ehergy_of_reaction.py)"
+			],
+			[
+				"MnO",
+				"MnO2"
+			],
+			[
+				"C6",
+				"C6H6O"
+			],
+			[
+				"con",
+				"concentrations"
+			],
+			[
+				"vs",
+				"vstack\tfunction"
+			],
+			[
+				"r_ac",
+				"r_acetate_s_red"
+			],
+			[
+				"par",
+				"parentdir2"
+			],
+			[
+				"if",
+				"ifeif\tif … elseif … end"
+			],
+			[
+				"yi",
+				"yield"
+			],
+			[
+				"power",
+				"powerful"
+			],
+			[
+				"with",
+				"with"
+			],
+			[
+				"log",
+				"logic_optx"
+			],
+			[
+				"H2",
+				"H2O"
+			],
+			[
+				"TE",
+				"TEA"
+			],
+			[
+				"R1_",
+				"R1_max"
+			],
+			[
+				"enviroment",
+				"environment"
+			],
+			[
+				"probability_app",
+				"Probability_approach_application"
+			],
+			[
+				"proba",
+				"probability"
+			],
+			[
+				"modeller",
+				"modeller"
+			],
+			[
+				"dGr0_glucose_Fe",
+				"dGr0_glucose_FeOOH"
+			],
+			[
+				"dGr0_glucose_",
+				"dGr0_glucose_SO4\tstatement"
+			],
+			[
+				"Thermodynami",
+				"thermodynamics"
+			],
+			[
+				"opt_2_rxns",
+				"opt_2_rxns_eq"
+			],
+			[
+				"reactions",
+				"reactions"
+			],
+			[
+				"center",
+				"centering"
+			],
+			[
+				"Probabil",
+				"Probability\t(movie.m)"
+			],
+			[
+				"diffe",
+				"differential"
+			],
+			[
+				"parti",
+				"partial\t(bibliography.bib)"
+			],
+			[
+				"has",
+				"haynes2012crc"
+			],
+			[
+				"enzy",
+				"enzyme"
+			],
+			[
+				"cons",
+				"constant"
+			],
+			[
+				"inhi",
+				"inhibition"
+			],
+			[
+				"expe",
+				"experimental"
+			],
+			[
+				"class",
+				"classical"
+			],
+			[
+				"prev",
+				"prev_optx"
+			],
+			[
+				"inf",
+				"infty"
+			],
+			[
+				"in",
+				"infty"
+			],
+			[
+				"pa",
+				"page\tPage"
+			],
+			[
+				"statis",
+				"Statistical"
+			],
+			[
+				"distrib",
+				"distribution"
+			],
+			[
+				"Ft_",
+				"Ft_improved"
+			],
+			[
+				"opt",
+				"optimization"
+			],
+			[
+				"FeO",
+				"FeOH3"
+			],
+			[
+				"mea",
+				"meanwhile"
+			],
+			[
+				"the",
+				"thermodynamic"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/custom_make.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"all",
+				"Table Cleaner: Align Table"
+			],
+			[
+				"latdel",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"case",
+				"Convert Case: Upper Case"
+			],
+			[
+				"al",
+				"Table Cleaner: Align Table"
+			],
+			[
+				"alli",
+				"Table Cleaner: Align Table"
+			],
+			[
+				"latextools",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis c",
+				"Package Control: Discover Packages"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"ipython",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"repl ip",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"de",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"repl ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"mark st",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"linter sed",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"keyspe",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"thes",
+				"Thesaurus search"
+			],
+			[
+				"install te",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install the",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instal the",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"anaco def",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"lin show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"vintage",
+				"Vintageous: Open .vintageousrc"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"show cons",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"snipit",
+				"Snippet: Italic Shape Text"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"disa pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"del",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"allign",
+				"Table Cleaner: Align Table"
+			],
+			[
+				"ali",
+				"SublimeGit: Add License"
+			],
+			[
+				"check",
+				"Highlight Mistakes: Check Current File"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packaup",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"conver",
+				"Convert Case: Title Case"
+			],
+			[
+				"con",
+				"Convert Case: Title Case"
+			],
+			[
+				"cam",
+				"Convert Case: camelCase"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Ace Stream/Readme.txt",
+		"/Volumes/NI Reaktor 6 v6.1.0/Instructions.txt",
+		"/Users/MarkelovIgor/git/kivy/test.py3",
+		"/Users/MarkelovIgor/git/biogeochemistry/PhD-proposal/proposal.tex",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/Watson_optimisation_model_class_abio.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/calibration_routine_class.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/fes_model_run.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/max_entropy_model_run.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/competitive_exclusion_paper/competitive_exclusion.tex",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/extra_plotting_methods.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/competitive_exclusion_paper/bibliography.bib",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/model_run.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/abio_model_run.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/Watson_original_model.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/Watson_optimisation_model_class_fes.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/models_compare.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/extra_methods.py",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/model/Watson 2003/exp_meas/CH4.txt",
+		"/Users/MarkelovIgor/git/biogeochemistry/bioenergetics/competitive_exclusion_paper/backup.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/exp_meas/CH4.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/matlab/model_complex.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/models_compare.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/graphs.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/model_run.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/stat_analysis.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/Watson_optimisation_model_class.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/calibration_routine_class.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/thermodynamic_lib/extras.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/Watson_original_model.py",
+		"/Users/MarkelovIgor/.zshrc",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/models_compares.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/extra_methods.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/calibration_routine_class_original.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/Watson_original_model_calibration.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics_paper/model.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/build_graphs_all.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/build_graphs_compare.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/thermodynamic_lib/gibbs_ehergy_of_reaction.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/thermodynamic_lib/gibbs_energies_of_reactions.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/calibration/calibration_routine.py",
+		"/Users/MarkelovIgor/.ipython/profile_pyspark/startup/00-pyspark-setup.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/exp_meas/CH4_all_updated.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/interpolation.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/build_graphs.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/matlab/graph.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/notes.md",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/m_balance.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/Jacobian.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/test.py",
+		"/Users/MarkelovIgor/.ipython/profile_default/ipython_config.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/model_run.py",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics_paper/model.toc",
+		"/Users/MarkelovIgor/Dropbox/abl.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/calibration/Roden_optimization_calibration.py",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/calibration/Watson_optimisation_model.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/Roden_optimization_model_ode.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/Roden_optimization_model.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/matlab/ode_optimization_new_H2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/__init__.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/Roden_original_model.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/ploting_routine.py",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Watson 2003/Watson_optimisation_model.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/extra_methods.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/Roden_original_model_ode.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/calibration/__init__.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/matlab/model_3g.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/matlab/ode_3g.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/thermodynamic_lib/extras.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/Roden 2008/original_model.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/model based on paper/optimisation_model.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/model based on paper/original_model.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/model based on paper/model_exp_opt.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/model based on paper/latex/Exp_model.tex",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/model based on paper/extra_methods.py",
+		"/Users/MarkelovIgor/Dropbox/Sublime/User/python3.sublime-build",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/matlab/model_optimization_new_H2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model/model based on paper/exp_meas/Acetate.txt",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics_paper/bibliography.bib",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/.gitconfig",
+		"/Users/MarkelovIgor/git-latexdiff",
+		"/tmp/git-latexdiff.Q6rkBB/diff.log",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/KeyboardSpellCheck.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/KeyboardSpellCheck/KeyboardSpellCheck.sublime-settings",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics.sublime-project",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/__init__.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/ode_optimization_new_H2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model_3g.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/ode_3g.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/model_optimization_new_H2.m",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/MarkelovIgor/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/MarkelovIgor/Dropbox/Sublime/User/.vintageousrc",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics_paper/test.tx",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/U exp paper/bibliography.bib",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/fun_optimization_new_H2.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/ode.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/fun_optimization_new.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/ode_optimization_new.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics_paper/img/statistical/sigma_root_1/distribution.mp4",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/results/PDF for dG.ipynb",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/results/results_optimization_no_shift.ipynb",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/results/.ipynb_checkpoints/results_optimization_no_shift-checkpoint.ipynb",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics_paper/img/statistical/sigma_root_10/distribution.mp4",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics_paper/old.tex",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/movie.m",
+		"/Users/MarkelovIgor/Dropbox/Sublime/User/latex_own.sublime-build",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/test.tex",
+		"/usr/local/texlive/2015/texmf-dist/tex/latex/mhchem/mhchem.sty",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/convert.sh",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/bioenergetics_paper/model.aux",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/myfun.m",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/thermodynamic_lib/correlation.py",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/paper/bibliography.bib",
+		"/Users/MarkelovIgor/Documents/git/biogeochemistry/bioenergetics/paper/model.tex",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-jqynbb/rc.local",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-m1etzw/rc.local",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-24qkl7/SickBeard.py",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-eqgxpz/rc.local",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-hr_lmo/rc.local",
+		"/var/folders/49/nrnz8x2x141g4w899z9k4clr0000gn/T/rsub-kljx32/rc.local"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"pyth",
+			"15mm",
+			"set_xlim",
+			" xtol=1e-12",
+			"alk_fun",
+			"x",
+			"equations",
+			"pH(TIC",
+			"pH_2(T",
+			"f_h",
+			"pH(TIC,",
+			"setspace",
+			"kinetic parameters of",
+			"B",
+			"^i",
+			"_i",
+			"v",
+			"k",
+			"V_{max}",
+			"k_{max}",
+			"x} \\cdot X",
+			"[ED]",
+			"\\cdot",
+			"_{",
+			"k_i",
+			"F_k",
+			"hori",
+			"_res",
+			"original",
+			"rmsd",
+			"y_mean_line",
+			"ys_orig",
+			"ys_line",
+			"rmsd",
+			"\\",
+			",",
+			"NS",
+			"correlation",
+			"+",
+			"norm_rmse",
+			"rmse",
+			"*",
+			"* r",
+			"rmsd",
+			"rmse",
+			"model.",
+			"ginal_model",
+			"new_model",
+			" +",
+			"L",
+			"+",
+			"NS",
+			"norm_rmse",
+			"rmse",
+			"* *",
+			"*",
+			"* r",
+			"rmsd",
+			"_meas",
+			"_res",
+			"days, d",
+			"M 1e",
+			"vspace",
+			"12mm",
+			"Concentration",
+			"13mm",
+			".5",
+			"caption",
+			"imag",
+			"image",
+			"image1",
+			"compared",
+			"sub",
+			"version",
+			"timeregression",
+			"subfigure",
+			"timeregression",
+			"HCO3_G = -586.85",
+			"FeOH3",
+			"MnOOH",
+			"4.2",
+			"3.6",
+			"5e",
+			"3.6",
+			"4.6",
+			"5e",
+			"h=2",
+			"new_model.model",
+			"-.'",
+			", '",
+			"original",
+			"self",
+			"self.",
+			"CH4",
+			"[k]",
+			"original_model.",
+			"new_model.model",
+			"K_I_FEOOH_LR",
+			"separ",
+			"save_fig =",
+			"save_fig = False",
+			"save_fig",
+			"save_fig_flag",
+			"save_fig_flag =",
+			"save_fig_flag",
+			"bx",
+			"CO3",
+			"5e-3",
+			",",
+			"rmsd",
+			"CH4",
+			", 0.24)",
+			"1.0 / 1000 *",
+			"SO4",
+			"C6H6Os",
+			"model",
+			"if original:",
+			"model",
+			"if save_fig_flag:",
+			"r_h3a",
+			"r_h2a",
+			"CH3COOH",
+			"CO3",
+			"CO3 ",
+			"CO3",
+			" =",
+			",",
+			"SO_4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"np.exp",
+			"np.log",
+			"np.sqrt",
+			"self.K_",
+			"np.sqrt",
+			"np.log",
+			"np.exp",
+			")",
+			"G2b",
+			"G1b",
+			"R2b",
+			"R1b",
+			"R2b",
+			"R1b",
+			"del",
+			"R2",
+			"modeller",
+			"modeler",
+			"modelling"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.14":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.3":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.4":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.5":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 212.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 92.0
+	},
+	"output.upload|/Users/MarkelovIgor/Documents/Arduino/test|1472188385.849136":
+	{
+		"height": 128.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "Canada_WQ_long_term_data.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"extra",
+				"model/Watson 2003/extra_plotting_methods.py"
+			],
+			[
+				"waabio",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class_abio.py"
+			],
+			[
+				"abio",
+				"model/Watson 2003/abio_model_run.py"
+			],
+			[
+				"watson_optimisation_model_class_abio_const_test",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class_abio_const_test.py"
+			],
+			[
+				"comptex",
+				"competitive_exclusion_paper/competitive_exclusion.tex"
+			],
+			[
+				"watabi",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class_abio.py"
+			],
+			[
+				"max",
+				"model/Watson 2003/max_entropy_model_run.py"
+			],
+			[
+				"fes",
+				"model/Watson 2003/fes_model_run.py"
+			],
+			[
+				"caliclass",
+				"model/Watson 2003/calibration/calibration_routine_class.py"
+			],
+			[
+				"classfes",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class_fes.py"
+			],
+			[
+				"bil",
+				"competitive_exclusion_paper/bibliography.bib"
+			],
+			[
+				"ch4",
+				"model/Watson 2003/exp_meas/CH4.txt"
+			],
+			[
+				"ch",
+				"model/Watson 2003/exp_meas/CH4.txt"
+			],
+			[
+				"model_comp",
+				"model/Watson 2003/models_compare.py"
+			],
+			[
+				"model_c",
+				"model/matlab/model_complex.m"
+			],
+			[
+				"ori",
+				"model/Watson 2003/Watson_original_model.py"
+			],
+			[
+				"model_",
+				"model/Watson 2003/model_run.py"
+			],
+			[
+				"compa",
+				"model/Watson 2003/models_compare.py"
+			],
+			[
+				"ex",
+				"model/Watson 2003/extra_methods.py"
+			],
+			[
+				"explo",
+				"model/Watson 2003/extra_plotting_methods.py"
+			],
+			[
+				"com",
+				"competitive_exclusion_paper/competitive_exclusion.tex"
+			],
+			[
+				"models",
+				"model/Watson 2003/models_compare.py"
+			],
+			[
+				"gra",
+				"model/Watson 2003/graphs.py"
+			],
+			[
+				"wa",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class.py"
+			],
+			[
+				"grap",
+				"model/Watson 2003/graphs.py"
+			],
+			[
+				"run",
+				"model/Watson 2003/model_run.py"
+			],
+			[
+				"watsclas",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class.py"
+			],
+			[
+				"watscalibra",
+				"model/Watson 2003/calibration/calibration_routine_class.py"
+			],
+			[
+				"watsca",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class.py"
+			],
+			[
+				"waclas",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class.py"
+			],
+			[
+				"watsonorig",
+				"model/Watson 2003/Watson_original_model.py"
+			],
+			[
+				"model_run",
+				"model/Watson 2003/model_run.py"
+			],
+			[
+				"modelcompa",
+				"model/Watson 2003/models_compares.py"
+			],
+			[
+				"compare",
+				"model/Watson 2003/models_compare.py"
+			],
+			[
+				"watson",
+				"model/Watson 2003/Watson_original_model.py"
+			],
+			[
+				"extra_methods",
+				"model/Watson 2003/extra_methods.py"
+			],
+			[
+				"build",
+				"model/Watson 2003/build_graphs_compare.py"
+			],
+			[
+				"modelc",
+				"model/Watson 2003/models_compare.py"
+			],
+			[
+				"gibbs",
+				"thermodynamic_lib/gibbs_energies_of_reactions.m"
+			],
+			[
+				"calibra",
+				"model/Watson 2003/calibration/calibration_routine_class.py"
+			],
+			[
+				"cali",
+				"model/Roden 2008/calibration/calibration_routine.py"
+			],
+			[
+				"build_graphs_all",
+				"model/Watson 2003/build_graphs_all.py"
+			],
+			[
+				"thermo",
+				"thermodynamic_lib/gibbs_ehergy_of_reaction.py"
+			],
+			[
+				"model",
+				"bioenergetics_paper/model.tex"
+			],
+			[
+				"bui",
+				"model/Watson 2003/build_graphs_all.py"
+			],
+			[
+				"model_r",
+				"model/Watson 2003/model_run.py"
+			],
+			[
+				"class",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class.py"
+			],
+			[
+				"origi",
+				"model/Watson 2003/Watson_original_model.py"
+			],
+			[
+				"buil",
+				"model/Watson 2003/build_graphs_all.py"
+			],
+			[
+				"build_graphs_c",
+				"model/Watson 2003/build_graphs_compare.py"
+			],
+			[
+				"",
+				"model/Watson 2003/interpolation.py"
+			],
+			[
+				"graphs",
+				"model/Watson 2003/graphs.py"
+			],
+			[
+				"wats",
+				"model/Watson 2003/Watson_original_model.py"
+			],
+			[
+				"note",
+				"model/Watson 2003/notes.md"
+			],
+			[
+				"calib",
+				"model/Watson 2003/calibration/calibration_routine_class.py"
+			],
+			[
+				"watson_original_model",
+				"model/Watson 2003/Watson_original_model.py"
+			],
+			[
+				"watsonori",
+				"model/Watson 2003/Watson_original_model.py"
+			],
+			[
+				"watco",
+				"model/Watson 2003/calibration/Watson_optimisation_model_class.py"
+			],
+			[
+				"watsoorig",
+				"model/Watson 2003/Watson_original_model.py"
+			],
+			[
+				"rode",
+				"model/Roden 2008/Roden_optimization_model_ode.py"
+			],
+			[
+				"rodeode",
+				"model/Roden 2008/Roden_optimization_model_ode.py"
+			],
+			[
+				"rodenopt",
+				"model/Roden 2008/Roden_optimization_model.py"
+			],
+			[
+				"extr",
+				"thermodynamic_lib/extras.py"
+			],
+			[
+				"the",
+				"thermodynamic_lib/gibbs_ehergy_of_reaction.py"
+			],
+			[
+				"rodenor",
+				"model/Roden 2008/Roden_original_model.py"
+			],
+			[
+				"ode_3g",
+				"model/matlab/ode_3g.m"
+			],
+			[
+				"ther",
+				"thermodynamic_lib/gibbs_ehergy_of_reaction.py"
+			],
+			[
+				"extras",
+				"thermodynamic_lib/extras.py"
+			],
+			[
+				"model3",
+				"model/matlab/model_3g.m"
+			],
+			[
+				"text",
+				"model/model based on paper/latex/Exp_model.tex"
+			],
+			[
+				"ace",
+				"model/model based on paper/exp_meas/Acetate.txt"
+			],
+			[
+				"modelexp",
+				"model/model based on paper/model_exp_opt.py"
+			],
+			[
+				"py",
+				"model/python/model.py"
+			],
+			[
+				"bi",
+				"bioenergetics_paper/bibliography.bib"
+			],
+			[
+				"reacti",
+				"thermodynamic_lib/gibbs_ehergy_of_reaction.py"
+			],
+			[
+				"bib",
+				"bioenergetics_paper/bibliography.bib"
+			],
+			[
+				"modelte",
+				"bioenergetics_paper/model.tex"
+			],
+			[
+				"modeltex",
+				"bioenergetics_paper/model.tex"
+			],
+			[
+				"bio",
+				"bioenergetics_paper/bibliography.bib"
+			],
+			[
+				"ode",
+				"ode.m"
+			],
+			[
+				"th",
+				"thermodynamic_lib/gibbs_ehergy_of_reaction.py"
+			],
+			[
+				"myfun",
+				"myfun.m"
+			],
+			[
+				"gibbsene.m",
+				"thermodynamic_lib/gibbs_energies_of_reactions.m"
+			],
+			[
+				"exr",
+				"thermodynamic_lib/extras.py"
+			],
+			[
+				"biob",
+				"bioenergetics_paper/bibliography.bib"
+			],
+			[
+				"bbi",
+				"bioenergetics_paper/bibliography.bib"
+			],
+			[
+				"modet",
+				"bioenergetics_paper/model.tex"
+			],
+			[
+				"norm",
+				"norm_fun.m"
+			],
+			[
+				"mov",
+				"movie.m"
+			],
+			[
+				"table",
+				"thermodynamic_lib/gibbs_ehergy_of_reaction.py"
+			],
+			[
+				"mode",
+				"model.m"
+			],
+			[
+				"modete",
+				"paper/model.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "notes",
+		"selected_items":
+		[
+			[
+				"notes",
+				"~/Documents/git/biogeochemistry/notes/notes.sublime-project"
+			],
+			[
+				"lan",
+				"~/Documents/git/biogeochemistry/Langtjern/langtjern.sublime-project"
+			],
+			[
+				"lang",
+				"~/Documents/git/biogeochemistry/Langtjern/langtjern.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/git/printchomp/printchomp.sublime-project"
+			],
+			[
+				"water",
+				"~/Documents/git/water-601/Water601.sublime-project"
+			],
+			[
+				"web",
+				"~/Documents/git/biogeochemistry/web_site/project.sublime-project"
+			],
+			[
+				"we",
+				"~/Documents/git/biogeochemistry/web_site/project.sublime-project"
+			],
+			[
+				"calibra",
+				"~/Documents/git/biogeochemistry/phreeqc_calibration_exp/phreeqc_calibration.sublime-project"
+			],
+			[
+				"phre",
+				"~/Documents/git/biogeochemistry/phreeqc_calibration_exp/phreeqc_calibration.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

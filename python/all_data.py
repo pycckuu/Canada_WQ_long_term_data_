@@ -16,10 +16,10 @@ marker_lngs = [-74.115648, -73.243925, -73.634724, -68.2318, -67.7341, -67.511, 
 
 
 
-# gmap.scatter(marker_lats, marker_lngs, 'r', marker=True)
+gmap.scatter(marker_lats, marker_lngs, 'r', marker=True)
 # gmap.plot(marker_lats, marker_lngs, 'cornflowerblue', edge_width=10)
 # gmap.scatter(marker_lats, marker_lngs, '#3B0B39', size=40, marker=False)
-gmap.heatmap(marker_lats, marker_lngs)
+# gmap.heatmap(marker_lats, marker_lngs)
 
 
 gmap.draw("all_data.html")
